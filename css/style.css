@@ -54,7 +54,7 @@ form{
     height: 75px;
     width: 75px;
     border-radius: 50%;
-    background-image: url(../assets/Logo\ Anggottt\ 500x500.jpg);
+    background-image: url(../assets/Logo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -242,7 +242,7 @@ form{
 }
 
 .facility-satu{
-    background-image: url(../assets/Software\ Developtment.jpg);
+    background-image: url(../assets/SDI.jpg);
     background-position: center;
     width: 150px;
     height: 150px;
@@ -254,7 +254,7 @@ form{
 }
 
 .facility-dua{
-    background-image: url(../assets/Front\ End\ Developtment.jpg);
+    background-image: url(../assets/FEI.jpg);
     background-position: center;
     width: 150px;
     height: 150px;
@@ -266,7 +266,7 @@ form{
 }
 
 .facility-tiga{
-    background-image: url(../assets/Back\ End\ Developtment.jpg);
+    background-image: url(../assets/BED.jpg);
     background-position: center;
     width: 150px;
     height: 150px;
